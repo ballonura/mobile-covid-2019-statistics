@@ -6,7 +6,7 @@
           <p class="font-semibold text-2xl text-white">Covid-19</p>
           <div class="flex justify-between items-center bg-white h-10 px-2" style="border-radius: 50px; width: 7.25rem;">
             <img class="rounded-full w-8" src="@/assets/images/countries/il.svg" />
-            <p class="font-semibold text-sm text-purple-darker">USA</p>
+            <p class="font-semibold text-sm text-purple-darker">IL</p>
             <!-- prettier-ignore -->
             <svg class="text-purple-dark w-3" viewBox="0 0 11 8">
               <path
@@ -79,11 +79,11 @@
       </div>
     </div>
     <div class="container flex-1 flex flex-col">
-      <p class="text-purple-lighter text-xl font-semibold mt-4">Prevention</p>
+      <p class="text-purple-darker text-xl font-semibold mt-4">Prevention</p>
       <div class="flex mt-6 overflow-x-auto">
         <div v-for="prevention in preventions" :key="prevention.id" class="flex flex-col flex-shrink-0 items-center w-1/3">
           <img :src="require(`@/assets/images/prevention/${prevention.id}.png`)" />
-          <p class="text-center text-purple-lighter text-sm font-semibold mt-2">{{ prevention.text }}</p>
+          <p class="text-center text-purple-darker text-sm font-semibold mt-2">{{ prevention.text }}</p>
         </div>
       </div>
     </div>

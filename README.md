@@ -10,7 +10,8 @@ Coming soon...
 
 ## Preview
 
-Coming soon...
+![COVID-19 Statistics](https://i.ibb.co/wdMJNgb/1.png)
+![COVID-19 Statistics](https://i.ibb.co/Yc5wVXb/2.png)
 
 ## Build Setup
 
