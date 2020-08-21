@@ -5,7 +5,7 @@ Mobile-only (< 768px ) COVID-19 worldwide statistic app.
 ## Demo
 
 ```bash
-Coming soon...
+https://mobile-covid-2019-statistics.vercel.app/
 ```
 
 ## Preview
