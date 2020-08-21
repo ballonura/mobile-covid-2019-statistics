@@ -1,6 +1,6 @@
 # COVID-19 Statistics
 
-Mobile-only COVID-19 worldwide statistic app.
+Mobile-only (< 768px ) COVID-19 worldwide statistic app.
 
 ## Demo
 
